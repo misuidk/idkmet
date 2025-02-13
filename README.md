@@ -107,9 +107,4 @@
         <p>&copy; 2025 Báo Tường - Mùa Xuân 2025</p>
         <div class="footer-links">
             <a href="#home">Trang chủ</a> | <a href="#events"> Những ngày cuối năm</a> | <a href="#news">Những món ăn truyền thống</a> | <a href="#contact">Phong tục truyền thống</a> | <a href="#mean"> Ý nghĩa |<a href="#end"> Chúc mừng năm mới </a>
-        </div>
-    </footer>
-
-</body>
-
-</html>
+       
